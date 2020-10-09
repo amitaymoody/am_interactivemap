@@ -1,0 +1,408 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968801,-37.81532 ]
+    },
+    "properties": {
+    "Name":"Liminal",
+    "Coffee Roaster":"Square One Coffee Roasters",
+    "Address":"161 Collins Street",
+    "Rating":4.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963308,-37.815358 ]
+    },
+    "properties": {
+    "Name":"Industry Beans Lt. Collins",
+    "Coffee Roaster":"Industry Beans",
+    "Address":"345 Little Collins Street",
+    "Rating":4.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958239,-37.814692 ]
+    },
+    "properties": {
+    "Name":"Patricia Coffee Brewers",
+    "Coffee Roaster":"Patricia Coffee Brewers",
+    "Address":"Corner Little Bourke Street and Little William Street",
+    "Rating":4.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.967097,-37.81433 ]
+    },
+    "properties": {
+    "Name":"Everyday Midtown",
+    "Coffee Roaster":"Everyday",
+    "Address":"213 Little Collins Street",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.956543,-37.819745 ]
+    },
+    "properties": {
+    "Name":"Altius Coffee Brewers",
+    "Coffee Roaster":"Altius",
+    "Address":"517 Flinders Lane",
+    "Rating":4.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97203,-37.815864 ]
+    },
+    "properties": {
+    "Name":"Vacation",
+    "Coffee Roaster":"Vacation",
+    "Address":"1 Exhibition Street",
+    "Rating":4.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962101,-37.813538 ]
+    },
+    "properties": {
+    "Name":"Brother Baba Budan",
+    "Coffee Roaster":"Seven Seeds",
+    "Address":"359 little Bourke Street",
+    "Rating":4.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96375,-37.814649 ]
+    },
+    "properties": {
+    "Name":"Kit Espresso",
+    "Coffee Roaster":"Padre Coffee",
+    "Address":"Shop 48, Royal Arcade",
+    "Rating":4.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968025,-37.814025 ]
+    },
+    "properties": {
+    "Name":"Gold Drops",
+    "Coffee Roaster":"Zinmah Coffee",
+    "Address":"183 Little Collins Street",
+    "Rating":4.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.966253,-37.810179 ]
+    },
+    "properties": {
+    "Name":"No Vacancy Gallery and Café",
+    "Coffee Roaster":"Industry Beans",
+    "Address":"30 - 40 Jane Bell Lane",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.956732,-37.817106 ]
+    },
+    "properties": {
+    "Name":"LB2 Specialty Coffee",
+    "Coffee Roaster":"Axil Coffee Roasters / Cartel",
+    "Address":"2 Gallagher Place",
+    "Rating":4.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.971246,-37.811419 ]
+    },
+    "properties": {
+    "Name":"Traveller",
+    "Coffee Roaster":"Seven Seeds",
+    "Address":"2/14 Crossley Street",
+    "Rating":4.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.955973,-37.807658 ]
+    },
+    "properties": {
+    "Name":"Little League",
+    "Coffee Roaster":"Padre Coffee",
+    "Address":"Stringbean Alley, Queen Victoria Market",
+    "Rating":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968485,-37.809218 ]
+    },
+    "properties": {
+    "Name":"The League of Honest Coffee",
+    "Coffee Roaster":"Padre Coffee",
+    "Address":"8 Exploration Lane",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.966167,-37.816791 ]
+    },
+    "properties": {
+    "Name":"Dukes",
+    "Coffee Roaster":"Dukes Coffee Roasters",
+    "Address":"247 Flinders Lane",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965137,-37.814722 ]
+    },
+    "properties": {
+    "Name":"Sensory Lab",
+    "Coffee Roaster":"St Ali",
+    "Address":"297 Little Collins Street",
+    "Rating":4.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954831,-37.813631 ]
+    },
+    "properties": {
+    "Name":"King St Espresso Bar",
+    "Coffee Roaster":"Allpress",
+    "Address":"1/270 King Street",
+    "Rating":4.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.964067,-37.810994 ]
+    },
+    "properties": {
+    "Name":"Little Rogue",
+    "Coffee Roaster":"Small Batch",
+    "Address":"12 Drewery Lane",
+    "Rating":4.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.956602,-37.820061 ]
+    },
+    "properties": {
+    "Name":"Hardware Societe Katherine Place",
+    "Coffee Roaster":"Padre Coffee",
+    "Address":"10 Katherine Place",
+    "Rating":4.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958327,-37.818892 ]
+    },
+    "properties": {
+    "Name":"Bonnie Coffee Co.",
+    "Coffee Roaster":"Bonnie Coffee",
+    "Address":"495 Collins Street",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962935,-37.821862 ]
+    },
+    "properties": {
+    "Name":"Workshop Brothers Southbank",
+    "Coffee Roaster":"Axil Coffee Roasters",
+    "Address":"2 Riverside Quay",
+    "Rating":4.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.966,-37.817535 ]
+    },
+    "properties": {
+    "Name":"Cup of Truth",
+    "Coffee Roaster":"Axil Coffee Roasters",
+    "Address":"12 Cambell Arcade, Degraves Street",
+    "Rating":4.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.968671,-37.808723 ]
+    },
+    "properties": {
+    "Name":"65 Degrees",
+    "Coffee Roaster":"Gridlock Coffee",
+    "Address":"309 Exhibition Street",
+    "Rating":4.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962138,-37.813875 ]
+    },
+    "properties": {
+    "Name":"Manchester Press",
+    "Coffee Roaster":"8oz Coffee Roasters",
+    "Address":"8 Rankins Lane",
+    "Rating":4.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.973103,-37.812543 ]
+    },
+    "properties": {
+    "Name":"Little Bean Blue",
+    "Coffee Roaster":"Rumble",
+    "Address":"15 Little Collins Street",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.969006,-37.810563 ]
+    },
+    "properties": {
+    "Name":"Drystore Espresso",
+    "Coffee Roaster":"Naked Espresso",
+    "Address":"113 Lonsdale Street",
+    "Rating":4.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.971545,-37.815066 ]
+    },
+    "properties": {
+    "Name":"Axil Coffee Roasters CBD Espresso Bar",
+    "Coffee Roaster":"Axil Coffee Roasters",
+    "Address":"76 Flinders Lane",
+    "Rating":4.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.972858,-37.814854 ]
+    },
+    "properties": {
+    "Name":"Tom Thumb",
+    "Coffee Roaster":"Clement",
+    "Address":"53 Flinders Lane",
+    "Rating":4.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.957001,-37.810702 ]
+    },
+    "properties": {
+    "Name":"Operator25",
+    "Coffee Roaster":"Code Black / Cartel",
+    "Address":"25 Wills Stret",
+    "Rating":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963006,-37.810147 ]
+    },
+    "properties": {
+    "Name":"Plantation",
+    "Coffee Roaster":"St Ali",
+    "Address":"Shop 253 Melbourne Central",
+    "Rating":4.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960556,-37.812316 ]
+    },
+    "properties": {
+    "Name":"Hash Specialty Coffee",
+    "Coffee Roaster":"Reverence",
+    "Address":"113 Hardware Street",
+    "Rating":4.4
+    }
+  }
+]
+}
