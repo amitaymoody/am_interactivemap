@@ -1,0 +1,2605 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9630486,-37.80825648 ]
+    },
+    "properties": {
+    "SensorName":"Building 80 RMIT",
+    "Time":7,
+    "MarchSum":10274,
+    "CountAv":331.4193548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9630486,-37.80825648 ]
+    },
+    "properties": {
+    "SensorName":"Building 80 RMIT",
+    "Time":8,
+    "MarchSum":36273,
+    "CountAv":1170.096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9630486,-37.80825648 ]
+    },
+    "properties": {
+    "SensorName":"Building 80 RMIT",
+    "Time":9,
+    "MarchSum":27618,
+    "CountAv":890.9032258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9630486,-37.80825648 ]
+    },
+    "properties": {
+    "SensorName":"Building 80 RMIT",
+    "Time":10,
+    "MarchSum":39814,
+    "CountAv":1284.322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9545275,-37.81909256 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (South)",
+    "Time":7,
+    "MarchSum":15987,
+    "CountAv":515.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9545275,-37.81909256 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (South)",
+    "Time":8,
+    "MarchSum":32419,
+    "CountAv":1045.774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9545275,-37.81909256 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (South)",
+    "Time":9,
+    "MarchSum":22440,
+    "CountAv":723.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9545275,-37.81909256 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (South)",
+    "Time":10,
+    "MarchSum":15884,
+    "CountAv":512.3870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Lt Bourke St (South)",
+    "Time":7,
+    "MarchSum":2449,
+    "CountAv":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Lt Bourke St (South)",
+    "Time":8,
+    "MarchSum":4174,
+    "CountAv":134.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Lt Bourke St (South)",
+    "Time":9,
+    "MarchSum":5434,
+    "CountAv":175.2903226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Lt Bourke St (South)",
+    "Time":10,
+    "MarchSum":8175,
+    "CountAv":263.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spark La",
+    "Time":7,
+    "MarchSum":3155,
+    "CountAv":101.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spark La",
+    "Time":8,
+    "MarchSum":6339,
+    "CountAv":204.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spark La",
+    "Time":9,
+    "MarchSum":5693,
+    "CountAv":183.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spark La",
+    "Time":10,
+    "MarchSum":5577,
+    "CountAv":179.9032258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.950256,-37.8176735 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St Bridge",
+    "Time":7,
+    "MarchSum":43318,
+    "CountAv":1397.354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.950256,-37.8176735 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St Bridge",
+    "Time":8,
+    "MarchSum":93417,
+    "CountAv":3013.451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.950256,-37.8176735 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St Bridge",
+    "Time":9,
+    "MarchSum":65274,
+    "CountAv":2105.612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.950256,-37.8176735 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St Bridge",
+    "Time":10,
+    "MarchSum":30295,
+    "CountAv":977.2580645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9722759,-37.80999341 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St-Spring St (West)",
+    "Time":7,
+    "MarchSum":6014,
+    "CountAv":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9722759,-37.80999341 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St-Spring St (West)",
+    "Time":8,
+    "MarchSum":16177,
+    "CountAv":521.8387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9722759,-37.80999341 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St-Spring St (West)",
+    "Time":9,
+    "MarchSum":14281,
+    "CountAv":460.6774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9722759,-37.80999341 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St-Spring St (West)",
+    "Time":10,
+    "MarchSum":14344,
+    "CountAv":462.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665891,-37.8016968 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (West)",
+    "Time":7,
+    "MarchSum":1965,
+    "CountAv":63.38709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665891,-37.8016968 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (West)",
+    "Time":8,
+    "MarchSum":3802,
+    "CountAv":122.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665891,-37.8016968 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (West)",
+    "Time":9,
+    "MarchSum":4509,
+    "CountAv":145.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665891,-37.8016968 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (West)",
+    "Time":10,
+    "MarchSum":5567,
+    "CountAv":179.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655067,-37.81237202 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Swanston St (North)",
+    "Time":7,
+    "MarchSum":3037,
+    "CountAv":97.96774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655067,-37.81237202 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Swanston St (North)",
+    "Time":8,
+    "MarchSum":6803,
+    "CountAv":219.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655067,-37.81237202 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Swanston St (North)",
+    "Time":9,
+    "MarchSum":6753,
+    "CountAv":217.8387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655067,-37.81237202 ]
+    },
+    "properties": {
+    "SensorName":"Chinatown-Swanston St (North)",
+    "Time":10,
+    "MarchSum":13751,
+    "CountAv":443.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9667145,-37.80310271 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (East)",
+    "Time":7,
+    "MarchSum":1293,
+    "CountAv":41.70967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9667145,-37.80310271 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (East)",
+    "Time":8,
+    "MarchSum":2865,
+    "CountAv":92.41935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9667145,-37.80310271 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (East)",
+    "Time":9,
+    "MarchSum":3782,
+    "CountAv":122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9667145,-37.80310271 ]
+    },
+    "properties": {
+    "SensorName":"Lygon St (East)",
+    "Time":10,
+    "MarchSum":4532,
+    "CountAv":146.1935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9612106,-37.81652527 ]
+    },
+    "properties": {
+    "SensorName":"Queen St (West)",
+    "Time":7,
+    "MarchSum":5466,
+    "CountAv":176.3225806
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9612106,-37.81652527 ]
+    },
+    "properties": {
+    "SensorName":"Queen St (West)",
+    "Time":8,
+    "MarchSum":16462,
+    "CountAv":531.0322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9612106,-37.81652527 ]
+    },
+    "properties": {
+    "SensorName":"Queen St (West)",
+    "Time":9,
+    "MarchSum":14058,
+    "CountAv":453.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9612106,-37.81652527 ]
+    },
+    "properties": {
+    "SensorName":"Queen St (West)",
+    "Time":10,
+    "MarchSum":13298,
+    "CountAv":428.9677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9535808,-37.81686074 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St - Spencer St (North)",
+    "Time":7,
+    "MarchSum":27089,
+    "CountAv":873.8387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9535808,-37.81686074 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St - Spencer St (North)",
+    "Time":8,
+    "MarchSum":50779,
+    "CountAv":1638.032258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9535808,-37.81686074 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St - Spencer St (North)",
+    "Time":9,
+    "MarchSum":40173,
+    "CountAv":1295.903226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9535808,-37.81686074 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St - Spencer St (North)",
+    "Time":10,
+    "MarchSum":32802,
+    "CountAv":1058.129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471751,-37.82293543 ]
+    },
+    "properties": {
+    "SensorName":"Webb Bridge",
+    "Time":7,
+    "MarchSum":9161,
+    "CountAv":295.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471751,-37.82293543 ]
+    },
+    "properties": {
+    "SensorName":"Webb Bridge",
+    "Time":8,
+    "MarchSum":13476,
+    "CountAv":434.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471751,-37.82293543 ]
+    },
+    "properties": {
+    "SensorName":"Webb Bridge",
+    "Time":9,
+    "MarchSum":8249,
+    "CountAv":266.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471751,-37.82293543 ]
+    },
+    "properties": {
+    "SensorName":"Webb Bridge",
+    "Time":10,
+    "MarchSum":6511,
+    "CountAv":210.0322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.939707,-37.81564989 ]
+    },
+    "properties": {
+    "SensorName":"Waterfront City",
+    "Time":7,
+    "MarchSum":402,
+    "CountAv":12.96774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.939707,-37.81564989 ]
+    },
+    "properties": {
+    "SensorName":"Waterfront City",
+    "Time":8,
+    "MarchSum":580,
+    "CountAv":18.70967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.939707,-37.81564989 ]
+    },
+    "properties": {
+    "SensorName":"Waterfront City",
+    "Time":9,
+    "MarchSum":408,
+    "CountAv":13.16129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.939707,-37.81564989 ]
+    },
+    "properties": {
+    "SensorName":"Waterfront City",
+    "Time":10,
+    "MarchSum":511,
+    "CountAv":16.48387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9730535,-37.81344861 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (North)",
+    "Time":7,
+    "MarchSum":16064,
+    "CountAv":518.1935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9730535,-37.81344861 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (North)",
+    "Time":8,
+    "MarchSum":36087,
+    "CountAv":1164.096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9730535,-37.81344861 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (North)",
+    "Time":9,
+    "MarchSum":22335,
+    "CountAv":720.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9730535,-37.81344861 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (North)",
+    "Time":10,
+    "MarchSum":13608,
+    "CountAv":438.9677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9595606,-37.80730067 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Therry St (South)",
+    "Time":7,
+    "MarchSum":2287,
+    "CountAv":73.77419355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9595606,-37.80730067 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Therry St (South)",
+    "Time":8,
+    "MarchSum":3940,
+    "CountAv":127.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9595606,-37.80730067 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Therry St (South)",
+    "Time":9,
+    "MarchSum":5957,
+    "CountAv":192.1612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9595606,-37.80730067 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Therry St (South)",
+    "Time":10,
+    "MarchSum":8056,
+    "CountAv":259.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960494,-37.80869542 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Elizabeth St (West)",
+    "Time":7,
+    "MarchSum":9492,
+    "CountAv":306.1935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960494,-37.80869542 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Elizabeth St (West)",
+    "Time":8,
+    "MarchSum":20197,
+    "CountAv":651.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960494,-37.80869542 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Elizabeth St (West)",
+    "Time":9,
+    "MarchSum":26104,
+    "CountAv":842.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960494,-37.80869542 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Elizabeth St (West)",
+    "Time":10,
+    "MarchSum":32034,
+    "CountAv":1033.354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650682,-37.81786445 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Elizabeth St (East)",
+    "Time":7,
+    "MarchSum":35225,
+    "CountAv":1136.290323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650682,-37.81786445 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Elizabeth St (East)",
+    "Time":8,
+    "MarchSum":67678,
+    "CountAv":2183.16129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650682,-37.81786445 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Elizabeth St (East)",
+    "Time":9,
+    "MarchSum":57892,
+    "CountAv":1867.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650682,-37.81786445 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Elizabeth St (East)",
+    "Time":10,
+    "MarchSum":56784,
+    "CountAv":1831.741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954492,-37.81887962 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (North)",
+    "Time":7,
+    "MarchSum":53907,
+    "CountAv":1738.935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954492,-37.81887962 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (North)",
+    "Time":8,
+    "MarchSum":99490,
+    "CountAv":3209.354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954492,-37.81887962 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (North)",
+    "Time":9,
+    "MarchSum":75425,
+    "CountAv":2433.064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954492,-37.81887962 ]
+    },
+    "properties": {
+    "SensorName":"Spencer St-Collins St (North)",
+    "Time":10,
+    "MarchSum":54548,
+    "CountAv":1759.612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9564469,-37.80606888 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Peel St",
+    "Time":7,
+    "MarchSum":2599,
+    "CountAv":83.83870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9564469,-37.80606888 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Peel St",
+    "Time":8,
+    "MarchSum":5127,
+    "CountAv":165.3870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9564469,-37.80606888 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Peel St",
+    "Time":9,
+    "MarchSum":5500,
+    "CountAv":177.4193548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9564469,-37.80606888 ]
+    },
+    "properties": {
+    "SensorName":"QV Market-Peel St",
+    "Time":10,
+    "MarchSum":7285,
+    "CountAv":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9687931,-37.82129924 ]
+    },
+    "properties": {
+    "SensorName":"The Arts Centre",
+    "Time":7,
+    "MarchSum":20330,
+    "CountAv":655.8064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9687931,-37.82129924 ]
+    },
+    "properties": {
+    "SensorName":"The Arts Centre",
+    "Time":8,
+    "MarchSum":39985,
+    "CountAv":1289.83871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9687931,-37.82129924 ]
+    },
+    "properties": {
+    "SensorName":"The Arts Centre",
+    "Time":9,
+    "MarchSum":36770,
+    "CountAv":1186.129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9687931,-37.82129924 ]
+    },
+    "properties": {
+    "SensorName":"The Arts Centre",
+    "Time":10,
+    "MarchSum":39933,
+    "CountAv":1288.16129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644038,-37.79690473 ]
+    },
+    "properties": {
+    "SensorName":"Tin Alley-Swanston St (West)",
+    "Time":7,
+    "MarchSum":1884,
+    "CountAv":60.77419355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644038,-37.79690473 ]
+    },
+    "properties": {
+    "SensorName":"Tin Alley-Swanston St (West)",
+    "Time":8,
+    "MarchSum":5087,
+    "CountAv":164.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644038,-37.79690473 ]
+    },
+    "properties": {
+    "SensorName":"Tin Alley-Swanston St (West)",
+    "Time":9,
+    "MarchSum":6008,
+    "CountAv":193.8064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644038,-37.79690473 ]
+    },
+    "properties": {
+    "SensorName":"Tin Alley-Swanston St (West)",
+    "Time":10,
+    "MarchSum":6351,
+    "CountAv":204.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958667,-37.80631581 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Queen St (East)",
+    "Time":7,
+    "MarchSum":4229,
+    "CountAv":136.4193548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958667,-37.80631581 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Queen St (East)",
+    "Time":8,
+    "MarchSum":8415,
+    "CountAv":271.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958667,-37.80631581 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Queen St (East)",
+    "Time":9,
+    "MarchSum":10487,
+    "CountAv":338.2903226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958667,-37.80631581 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Queen St (East)",
+    "Time":10,
+    "MarchSum":13912,
+    "CountAv":448.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9590632,-37.80841814 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Franklin St (North)",
+    "Time":7,
+    "MarchSum":2261,
+    "CountAv":72.93548387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9590632,-37.80841814 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Franklin St (North)",
+    "Time":8,
+    "MarchSum":4893,
+    "CountAv":157.8387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9590632,-37.80841814 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Franklin St (North)",
+    "Time":9,
+    "MarchSum":5568,
+    "CountAv":179.6129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9590632,-37.80841814 ]
+    },
+    "properties": {
+    "SensorName":"QVM-Franklin St (North)",
+    "Time":10,
+    "MarchSum":6794,
+    "CountAv":219.1612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471055,-37.81876473 ]
+    },
+    "properties": {
+    "SensorName":"Victoria Point",
+    "Time":7,
+    "MarchSum":7396,
+    "CountAv":238.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471055,-37.81876473 ]
+    },
+    "properties": {
+    "SensorName":"Victoria Point",
+    "Time":8,
+    "MarchSum":12931,
+    "CountAv":417.1290323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471055,-37.81876473 ]
+    },
+    "properties": {
+    "SensorName":"Victoria Point",
+    "Time":9,
+    "MarchSum":10975,
+    "CountAv":354.0322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9471055,-37.81876473 ]
+    },
+    "properties": {
+    "SensorName":"Victoria Point",
+    "Time":10,
+    "MarchSum":7155,
+    "CountAv":230.8064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9641178,-37.79844525 ]
+    },
+    "properties": {
+    "SensorName":"Monash Rd-Swanston St (West)",
+    "Time":7,
+    "MarchSum":4341,
+    "CountAv":140.0322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9641178,-37.79844525 ]
+    },
+    "properties": {
+    "SensorName":"Monash Rd-Swanston St (West)",
+    "Time":8,
+    "MarchSum":14038,
+    "CountAv":452.8387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9641178,-37.79844525 ]
+    },
+    "properties": {
+    "SensorName":"Monash Rd-Swanston St (West)",
+    "Time":9,
+    "MarchSum":16481,
+    "CountAv":531.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9641178,-37.79844525 ]
+    },
+    "properties": {
+    "SensorName":"Monash Rd-Swanston St (West)",
+    "Time":10,
+    "MarchSum":15524,
+    "CountAv":500.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.942924,-37.81457987 ]
+    },
+    "properties": {
+    "SensorName":"New Quay",
+    "Time":7,
+    "MarchSum":5356,
+    "CountAv":172.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.942924,-37.81457987 ]
+    },
+    "properties": {
+    "SensorName":"New Quay",
+    "Time":8,
+    "MarchSum":9427,
+    "CountAv":304.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.942924,-37.81457987 ]
+    },
+    "properties": {
+    "SensorName":"New Quay",
+    "Time":9,
+    "MarchSum":7717,
+    "CountAv":248.9354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.942924,-37.81457987 ]
+    },
+    "properties": {
+    "SensorName":"New Quay",
+    "Time":10,
+    "MarchSum":7371,
+    "CountAv":237.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965499,-37.8156419 ]
+    },
+    "properties": {
+    "SensorName":"Collins Street (North)",
+    "Time":7,
+    "MarchSum":10609,
+    "CountAv":342.2258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965499,-37.8156419 ]
+    },
+    "properties": {
+    "SensorName":"Collins Street (North)",
+    "Time":8,
+    "MarchSum":21172,
+    "CountAv":682.9677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965499,-37.8156419 ]
+    },
+    "properties": {
+    "SensorName":"Collins Street (North)",
+    "Time":9,
+    "MarchSum":23700,
+    "CountAv":764.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965499,-37.8156419 ]
+    },
+    "properties": {
+    "SensorName":"Collins Street (North)",
+    "Time":10,
+    "MarchSum":30704,
+    "CountAv":990.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9642949,-37.81101523 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central",
+    "Time":7,
+    "MarchSum":9593,
+    "CountAv":309.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9642949,-37.81101523 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central",
+    "Time":8,
+    "MarchSum":21088,
+    "CountAv":680.2580645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9642949,-37.81101523 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central",
+    "Time":9,
+    "MarchSum":22800,
+    "CountAv":735.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9642949,-37.81101523 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central",
+    "Time":10,
+    "MarchSum":33991,
+    "CountAv":1096.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9510256,-37.81982992 ]
+    },
+    "properties": {
+    "SensorName":"Southern Cross Station",
+    "Time":7,
+    "MarchSum":44154,
+    "CountAv":1424.322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9510256,-37.81982992 ]
+    },
+    "properties": {
+    "SensorName":"Southern Cross Station",
+    "Time":8,
+    "MarchSum":85141,
+    "CountAv":2746.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9510256,-37.81982992 ]
+    },
+    "properties": {
+    "SensorName":"Southern Cross Station",
+    "Time":9,
+    "MarchSum":57532,
+    "CountAv":1855.870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9510256,-37.81982992 ]
+    },
+    "properties": {
+    "SensorName":"Southern Cross Station",
+    "Time":10,
+    "MarchSum":21268,
+    "CountAv":686.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963084,-37.804024 ]
+    },
+    "properties": {
+    "SensorName":"Lincoln-Swanston (West)",
+    "Time":7,
+    "MarchSum":3178,
+    "CountAv":102.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963084,-37.804024 ]
+    },
+    "properties": {
+    "SensorName":"Lincoln-Swanston (West)",
+    "Time":8,
+    "MarchSum":9823,
+    "CountAv":316.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963084,-37.804024 ]
+    },
+    "properties": {
+    "SensorName":"Lincoln-Swanston (West)",
+    "Time":9,
+    "MarchSum":10438,
+    "CountAv":336.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963084,-37.804024 ]
+    },
+    "properties": {
+    "SensorName":"Lincoln-Swanston (West)",
+    "Time":10,
+    "MarchSum":9244,
+    "CountAv":298.1935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665681,-37.81121849 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St (South)",
+    "Time":7,
+    "MarchSum":4033,
+    "CountAv":130.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665681,-37.81121849 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St (South)",
+    "Time":8,
+    "MarchSum":8418,
+    "CountAv":271.5483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665681,-37.81121849 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St (South)",
+    "Time":9,
+    "MarchSum":9064,
+    "CountAv":292.3870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9665681,-37.81121849 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St (South)",
+    "Time":10,
+    "MarchSum":11711,
+    "CountAv":377.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655826,-37.81911704 ]
+    },
+    "properties": {
+    "SensorName":"Flinders Street Station Underpass",
+    "Time":7,
+    "MarchSum":40941,
+    "CountAv":1320.677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655826,-37.81911704 ]
+    },
+    "properties": {
+    "SensorName":"Flinders Street Station Underpass",
+    "Time":8,
+    "MarchSum":86002,
+    "CountAv":2774.258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655826,-37.81911704 ]
+    },
+    "properties": {
+    "SensorName":"Flinders Street Station Underpass",
+    "Time":9,
+    "MarchSum":55933,
+    "CountAv":1804.290323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9655826,-37.81911704 ]
+    },
+    "properties": {
+    "SensorName":"Flinders Street Station Underpass",
+    "Time":10,
+    "MarchSum":39347,
+    "CountAv":1269.258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9677876,-37.81244703 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St-Russell St (West)",
+    "Time":7,
+    "MarchSum":4701,
+    "CountAv":151.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9677876,-37.81244703 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St-Russell St (West)",
+    "Time":8,
+    "MarchSum":8744,
+    "CountAv":282.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9677876,-37.81244703 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St-Russell St (West)",
+    "Time":9,
+    "MarchSum":10015,
+    "CountAv":323.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9677876,-37.81244703 ]
+    },
+    "properties": {
+    "SensorName":"Bourke St-Russell St (West)",
+    "Time":10,
+    "MarchSum":14327,
+    "CountAv":462.1612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "SensorName":"Town Hall (West)",
+    "Time":7,
+    "MarchSum":12749,
+    "CountAv":411.2580645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "SensorName":"Town Hall (West)",
+    "Time":8,
+    "MarchSum":27101,
+    "CountAv":874.2258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "SensorName":"Town Hall (West)",
+    "Time":9,
+    "MarchSum":34152,
+    "CountAv":1101.677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "SensorName":"Town Hall (West)",
+    "Time":10,
+    "MarchSum":48333,
+    "CountAv":1559.129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615673,-37.80240719 ]
+    },
+    "properties": {
+    "SensorName":"Pelham St (South)",
+    "Time":7,
+    "MarchSum":1901,
+    "CountAv":61.32258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615673,-37.80240719 ]
+    },
+    "properties": {
+    "SensorName":"Pelham St (South)",
+    "Time":8,
+    "MarchSum":6123,
+    "CountAv":197.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615673,-37.80240719 ]
+    },
+    "properties": {
+    "SensorName":"Pelham St (South)",
+    "Time":9,
+    "MarchSum":7208,
+    "CountAv":232.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615673,-37.80240719 ]
+    },
+    "properties": {
+    "SensorName":"Pelham St (South)",
+    "Time":10,
+    "MarchSum":6330,
+    "CountAv":204.1935484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615331,-37.81234775 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St - Elizabeth St (North)",
+    "Time":7,
+    "MarchSum":3649,
+    "CountAv":117.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615331,-37.81234775 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St - Elizabeth St (North)",
+    "Time":8,
+    "MarchSum":10029,
+    "CountAv":323.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615331,-37.81234775 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St - Elizabeth St (North)",
+    "Time":9,
+    "MarchSum":10542,
+    "CountAv":340.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9615331,-37.81234775 ]
+    },
+    "properties": {
+    "SensorName":"Lonsdale St - Elizabeth St (North)",
+    "Time":10,
+    "MarchSum":12593,
+    "CountAv":406.2258065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9638641,-37.80008565 ]
+    },
+    "properties": {
+    "SensorName":"Grattan St-Swanston St (West)",
+    "Time":7,
+    "MarchSum":5372,
+    "CountAv":173.2903226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9638641,-37.80008565 ]
+    },
+    "properties": {
+    "SensorName":"Grattan St-Swanston St (West)",
+    "Time":8,
+    "MarchSum":16159,
+    "CountAv":521.2580645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9638641,-37.80008565 ]
+    },
+    "properties": {
+    "SensorName":"Grattan St-Swanston St (West)",
+    "Time":9,
+    "MarchSum":19220,
+    "CountAv":620
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9638641,-37.80008565 ]
+    },
+    "properties": {
+    "SensorName":"Grattan St-Swanston St (West)",
+    "Time":10,
+    "MarchSum":20403,
+    "CountAv":658.1612903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9678766,-37.81874249 ]
+    },
+    "properties": {
+    "SensorName":"Princes Bridge",
+    "Time":7,
+    "MarchSum":10696,
+    "CountAv":345.0322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9678766,-37.81874249 ]
+    },
+    "properties": {
+    "SensorName":"Princes Bridge",
+    "Time":8,
+    "MarchSum":22121,
+    "CountAv":713.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9678766,-37.81874249 ]
+    },
+    "properties": {
+    "SensorName":"Princes Bridge",
+    "Time":9,
+    "MarchSum":20633,
+    "CountAv":665.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9678766,-37.81874249 ]
+    },
+    "properties": {
+    "SensorName":"Princes Bridge",
+    "Time":10,
+    "MarchSum":26117,
+    "CountAv":842.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9672101,-37.79808191 ]
+    },
+    "properties": {
+    "SensorName":"Faraday St-Lygon St (West)",
+    "Time":7,
+    "MarchSum":1955,
+    "CountAv":63.06451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9672101,-37.79808191 ]
+    },
+    "properties": {
+    "SensorName":"Faraday St-Lygon St (West)",
+    "Time":8,
+    "MarchSum":4119,
+    "CountAv":132.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9672101,-37.79808191 ]
+    },
+    "properties": {
+    "SensorName":"Faraday St-Lygon St (West)",
+    "Time":9,
+    "MarchSum":6096,
+    "CountAv":196.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9672101,-37.79808191 ]
+    },
+    "properties": {
+    "SensorName":"Faraday St-Lygon St (West)",
+    "Time":10,
+    "MarchSum":8879,
+    "CountAv":286.4193548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9619401,-37.81252157 ]
+    },
+    "properties": {
+    "SensorName":"Elizabeth St-Lonsdale St (South)",
+    "Time":7,
+    "MarchSum":4987,
+    "CountAv":160.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9619401,-37.81252157 ]
+    },
+    "properties": {
+    "SensorName":"Elizabeth St-Lonsdale St (South)",
+    "Time":8,
+    "MarchSum":15917,
+    "CountAv":513.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9619401,-37.81252157 ]
+    },
+    "properties": {
+    "SensorName":"Elizabeth St-Lonsdale St (South)",
+    "Time":9,
+    "MarchSum":15215,
+    "CountAv":490.8064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9619401,-37.81252157 ]
+    },
+    "properties": {
+    "SensorName":"Elizabeth St-Lonsdale St (South)",
+    "Time":10,
+    "MarchSum":13877,
+    "CountAv":447.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651672,-37.81380667 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (South)",
+    "Time":7,
+    "MarchSum":5747,
+    "CountAv":185.3870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651672,-37.81380667 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (South)",
+    "Time":8,
+    "MarchSum":14634,
+    "CountAv":472.0645161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651672,-37.81380667 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (South)",
+    "Time":9,
+    "MarchSum":20239,
+    "CountAv":652.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651672,-37.81380667 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (South)",
+    "Time":10,
+    "MarchSum":34332,
+    "CountAv":1107.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650888,-37.82017828 ]
+    },
+    "properties": {
+    "SensorName":"Southbank",
+    "Time":7,
+    "MarchSum":34544,
+    "CountAv":1114.322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650888,-37.82017828 ]
+    },
+    "properties": {
+    "SensorName":"Southbank",
+    "Time":8,
+    "MarchSum":66319,
+    "CountAv":2139.322581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650888,-37.82017828 ]
+    },
+    "properties": {
+    "SensorName":"Southbank",
+    "Time":9,
+    "MarchSum":48887,
+    "CountAv":1577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9650888,-37.82017828 ]
+    },
+    "properties": {
+    "SensorName":"Southbank",
+    "Time":10,
+    "MarchSum":45151,
+    "CountAv":1456.483871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651532,-37.8134944 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (North)",
+    "Time":7,
+    "MarchSum":8636,
+    "CountAv":278.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651532,-37.8134944 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (North)",
+    "Time":8,
+    "MarchSum":21654,
+    "CountAv":698.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651532,-37.8134944 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (North)",
+    "Time":9,
+    "MarchSum":28656,
+    "CountAv":924.3870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9651532,-37.8134944 ]
+    },
+    "properties": {
+    "SensorName":"Bourke Street Mall (North)",
+    "Time":10,
+    "MarchSum":44357,
+    "CountAv":1430.870968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9745406,-37.81483252 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spring St (West)",
+    "Time":7,
+    "MarchSum":5392,
+    "CountAv":173.9354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9745406,-37.81483252 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spring St (West)",
+    "Time":8,
+    "MarchSum":12419,
+    "CountAv":400.6129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9745406,-37.81483252 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spring St (West)",
+    "Time":9,
+    "MarchSum":10556,
+    "CountAv":340.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9745406,-37.81483252 ]
+    },
+    "properties": {
+    "SensorName":"Flinders St-Spring St (West)",
+    "Time":10,
+    "MarchSum":6259,
+    "CountAv":201.9032258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962919,-37.82011242 ]
+    },
+    "properties": {
+    "SensorName":"Sandridge Bridge",
+    "Time":7,
+    "MarchSum":12176,
+    "CountAv":392.7741935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962919,-37.82011242 ]
+    },
+    "properties": {
+    "SensorName":"Sandridge Bridge",
+    "Time":8,
+    "MarchSum":24706,
+    "CountAv":796.9677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962919,-37.82011242 ]
+    },
+    "properties": {
+    "SensorName":"Sandridge Bridge",
+    "Time":9,
+    "MarchSum":15208,
+    "CountAv":490.5806452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962919,-37.82011242 ]
+    },
+    "properties": {
+    "SensorName":"Sandridge Bridge",
+    "Time":10,
+    "MarchSum":11368,
+    "CountAv":366.7096774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9560443,-37.82401776 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Convention Exhibition Centre",
+    "Time":7,
+    "MarchSum":15372,
+    "CountAv":495.8709677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9560443,-37.82401776 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Convention Exhibition Centre",
+    "Time":8,
+    "MarchSum":27790,
+    "CountAv":896.4516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9560443,-37.82401776 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Convention Exhibition Centre",
+    "Time":9,
+    "MarchSum":20645,
+    "CountAv":665.9677419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9560443,-37.82401776 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Convention Exhibition Centre",
+    "Time":10,
+    "MarchSum":19812,
+    "CountAv":639.0967742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9699575,-37.81379749 ]
+    },
+    "properties": {
+    "SensorName":"Alfred Place",
+    "Time":7,
+    "MarchSum":7460,
+    "CountAv":240.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9699575,-37.81379749 ]
+    },
+    "properties": {
+    "SensorName":"Alfred Place",
+    "Time":8,
+    "MarchSum":17350,
+    "CountAv":559.6774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9699575,-37.81379749 ]
+    },
+    "properties": {
+    "SensorName":"Alfred Place",
+    "Time":9,
+    "MarchSum":18112,
+    "CountAv":584.2580645
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9699575,-37.81379749 ]
+    },
+    "properties": {
+    "SensorName":"Alfred Place",
+    "Time":10,
+    "MarchSum":13200,
+    "CountAv":425.8064516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9732359,-37.81362542 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (South)",
+    "Time":7,
+    "MarchSum":17865,
+    "CountAv":576.2903226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9732359,-37.81362542 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (South)",
+    "Time":8,
+    "MarchSum":43796,
+    "CountAv":1412.774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9732359,-37.81362542 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (South)",
+    "Time":9,
+    "MarchSum":31880,
+    "CountAv":1028.387097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9732359,-37.81362542 ]
+    },
+    "properties": {
+    "SensorName":"Collins Place (South)",
+    "Time":10,
+    "MarchSum":21357,
+    "CountAv":688.9354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644713,-37.81064378 ]
+    },
+    "properties": {
+    "SensorName":"State Library",
+    "Time":7,
+    "MarchSum":7606,
+    "CountAv":245.3548387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644713,-37.81064378 ]
+    },
+    "properties": {
+    "SensorName":"State Library",
+    "Time":8,
+    "MarchSum":18403,
+    "CountAv":593.6451613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644713,-37.81064378 ]
+    },
+    "properties": {
+    "SensorName":"State Library",
+    "Time":9,
+    "MarchSum":19921,
+    "CountAv":642.6129032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9644713,-37.81064378 ]
+    },
+    "properties": {
+    "SensorName":"State Library",
+    "Time":10,
+    "MarchSum":25294,
+    "CountAv":815.9354839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9622008,-37.81160331 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central-Elizabeth St (East)",
+    "Time":7,
+    "MarchSum":12896,
+    "CountAv":416
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9622008,-37.81160331 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central-Elizabeth St (East)",
+    "Time":8,
+    "MarchSum":26955,
+    "CountAv":869.516129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9622008,-37.81160331 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central-Elizabeth St (East)",
+    "Time":9,
+    "MarchSum":27797,
+    "CountAv":896.6774194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9622008,-37.81160331 ]
+    },
+    "properties": {
+    "SensorName":"Melbourne Central-Elizabeth St (East)",
+    "Time":10,
+    "MarchSum":32556,
+    "CountAv":1050.193548
+    }
+  }
+]
+}
